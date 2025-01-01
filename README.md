@@ -23,7 +23,7 @@ Conteúdo:
 
 Canva:
 
-Capa:
+Capa: Capa de um livro onde apareça uma agência bancária moderna com a transcrição do título: Transforme Atendimento em Fidelidade: Guia para Bancos de Varejo
 
 
 Features
