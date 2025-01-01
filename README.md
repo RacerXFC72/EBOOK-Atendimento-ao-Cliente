@@ -9,21 +9,23 @@ Tecnologias utilizadas no projeto:
 - MidJourney
 - PowerPoint
 
-  Prompts
-  ChatGPT:
-  Título: Crie um título de um ebook sobre o tema de atendimento ao cliente, o ebook é do nicho de instituição financeira e o subnicho é de banco de varejo, o título deve ser atraente e curto, e ter uma temática de marketing no título, me liste 5 variações de títulos
-  Conteúdo:
+Prompts
 
-  MidJourney:
-  Capa:
+ChatGPT:
+Título: Crie um título de um ebook sobre o tema de atendimento ao cliente, o ebook é do nicho de instituição financeira e o subnicho é de banco de varejo, o título deve ser atraente e curto, e ter uma temática de marketing no título, me liste 5 variações de títulos
 
-  Features
-  - Conteúdo gerado via ChatGPT
-  - Imagens geradas via MidJourney
+Conteúdo:
+
+MidJourney:
+Capa:
+
+Features
+- Conteúdo gerado via ChatGPT
+- Imagens geradas via MidJourney
  
-  Materiais
-  * Imagens utilizadas em assets
-  * ebook gerado durante as aulas em output
+Materiais
+* Imagens utilizadas em assets
+* ebook gerado durante as aulas em output
  
-  Instruções de execução
+Instruções de execução
   
