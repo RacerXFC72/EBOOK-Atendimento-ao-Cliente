@@ -19,7 +19,8 @@ ChatGPT:
 
 Título: Crie um título de um ebook sobre o tema de atendimento ao cliente, o ebook é do nicho de instituição financeira e o subnicho é de banco de varejo, o título deve ser atraente e curto, e ter uma temática de marketing no título, me liste 5 variações de títulos
 
-Conteúdo:
+Conteúdo: Faça um texto para ebook , com foco em atendimento ao cliente para o nicho de varejo bancário, listando os pontos focais para a conversão de venda e fidelização dos clientes, com exemplos práticos. Explique sempre de uma maneira simples, deixe o texto enxuto, sempre deixe um título sugestivo por tópico
+
 
 Canva:
 
