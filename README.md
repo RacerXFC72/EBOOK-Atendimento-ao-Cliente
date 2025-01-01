@@ -14,6 +14,7 @@ Tecnologias utilizadas no projeto:
 Prompts
 
 ChatGPT:
+
 Título: Crie um título de um ebook sobre o tema de atendimento ao cliente, o ebook é do nicho de instituição financeira e o subnicho é de banco de varejo, o título deve ser atraente e curto, e ter uma temática de marketing no título, me liste 5 variações de títulos
 
 Conteúdo:
