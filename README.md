@@ -36,7 +36,4 @@ Features
 Materiais
 * Imagens utilizadas em [assets](https://github.com/RacerXFC72/EBOOK-Atendimento-ao-Cliente/blob/main/Capa%20do%20ebook.pptx)
 * ebook gerado durante o desafio em [output](https://github.com/RacerXFC72/EBOOK-Atendimento-ao-Cliente/blob/main/Atendimento%20ao%20cliente%20ebook.pdf)
-
- 
-Instruções de execução
   
