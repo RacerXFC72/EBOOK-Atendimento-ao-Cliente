@@ -21,14 +21,14 @@ Título: Crie um título de um ebook sobre o tema de atendimento ao cliente, o e
 
 Conteúdo:
 
-MidJourney:
+Canva:
 
 Capa:
 
 
 Features
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Canva (Gerador de Imagem)
  
 Materiais
 * Imagens utilizadas em assets
