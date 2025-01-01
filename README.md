@@ -31,7 +31,7 @@ Features
 - Imagens geradas via Canva (Gerador de Imagem)
  
 Materiais
-* Imagens utilizadas em assets
+* Imagens utilizadas em [assets](https://github.com/RacerXFC72/EBOOK-Atendimento-ao-Cliente/blob/main/Capa%20do%20ebook.pptx)
 * ebook gerado durante as aulas em output
 
  
