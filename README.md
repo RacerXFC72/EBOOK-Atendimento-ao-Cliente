@@ -4,10 +4,12 @@ Projeto EBOOK Gerado por I.A.s
 NOTE: Este é o repositório desenvolvido de acordo com um dos desafios propostas no bootcamp que a DIO criou em associação com a Caixa.
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA generativa. Todos os prompts seguem abaixo.
 
+
 Tecnologias utilizadas no projeto:
 - ChatGPT
 - MidJourney
 - PowerPoint
+
 
 Prompts
 
@@ -17,7 +19,9 @@ Título: Crie um título de um ebook sobre o tema de atendimento ao cliente, o e
 Conteúdo:
 
 MidJourney:
+
 Capa:
+
 
 Features
 - Conteúdo gerado via ChatGPT
@@ -26,6 +30,7 @@ Features
 Materiais
 * Imagens utilizadas em assets
 * ebook gerado durante as aulas em output
+
  
 Instruções de execução
   
